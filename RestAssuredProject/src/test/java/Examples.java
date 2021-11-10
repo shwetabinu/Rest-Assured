@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import io.restassured.http.ContentType;
 public class Examples {
 	
-	/*@Test
+	/* @Test
 	void test_01() {
 		
 		baseURI = "http://localhost:3000";
